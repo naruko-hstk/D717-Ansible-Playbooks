@@ -1,0 +1,95 @@
+all:
+    hosts:
+        10.d717:
+            ansible_host: 192.168.171.10
+            ansible_user: root
+        11.d717:
+            ansible_host: 192.168.171.11
+            ansible_user: root
+        12.d717:
+            ansible_host: 192.168.171.12
+            ansible_user: root
+        13.d717:
+            ansible_host: 192.168.171.13
+            ansible_user: root
+        14.d717:
+            ansible_host: 192.168.171.14
+            ansible_user: root
+        15.d717:
+            ansible_host: 192.168.171.15
+            ansible_user: root
+        16.d717:
+            ansible_host: 192.168.171.16
+            ansible_user: root
+        21.d717:
+            ansible_host: 192.168.171.21
+            ansible_user: root
+        22.d717:
+            ansible_host: 192.168.171.22
+            ansible_user: root
+        23.d717:
+            ansible_host: 192.168.171.23
+            ansible_user: root
+        24.d717:
+            ansible_host: 192.168.171.24
+            ansible_user: root
+        25.d717:
+            ansible_host: 192.168.171.25
+            ansible_user: root
+        26.d717:
+            ansible_host: 192.168.171.26
+            ansible_user: root
+        31.d717:
+            ansible_host: 192.168.171.31
+            ansible_user: root
+        32.d717:
+            ansible_host: 192.168.171.32
+            ansible_user: root
+        33.d717:
+            ansible_host: 192.168.171.33
+            ansible_user: root
+        34.d717:
+            ansible_host: 192.168.171.34
+            ansible_user: root
+        35.d717:
+            ansible_host: 192.168.171.35
+            ansible_user: root
+        36.d717:
+            ansible_host: 192.168.171.36
+            ansible_user: root
+        41.d717:
+            ansible_host: 192.168.171.41
+            ansible_user: root
+        42.d717:
+            ansible_host: 192.168.171.42
+            ansible_user: root
+        43.d717:
+            ansible_host: 192.168.171.43
+            ansible_user: root
+        44.d717:
+            ansible_host: 192.168.171.44
+            ansible_user: root
+        45.d717:
+            ansible_host: 192.168.171.45
+            ansible_user: root
+        46.d717:
+            ansible_host: 192.168.171.46
+            ansible_user: root
+        51.d717:
+            ansible_host: 192.168.171.51
+            ansible_user: root
+        52.d717:
+            ansible_host: 192.168.171.52
+            ansible_user: root
+        53.d717:
+            ansible_host: 192.168.171.53
+            ansible_user: root
+        54.d717:
+            ansible_host: 192.168.171.54
+            ansible_user: root
+        55.d717:
+            ansible_host: 192.168.171.55
+            ansible_user: root
+        56.d717:
+            ansible_host: 192.168.171.56
+            ansible_user: root
